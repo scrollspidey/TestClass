@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: shivdas
+Build-Jdk: 19.0.1
+Class-Path: ejbs-0.0.1-SNAPSHOT.jar primary-source-0.0.1-SNAPSHOT.jar lo
+ gging-0.0.1-SNAPSHOT.jar
+Created-By: Maven Integration for Eclipse
+
